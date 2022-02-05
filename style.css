@@ -1,0 +1,36 @@
+body
+{
+    background-color: darkturquoise;
+}
+.heading
+{
+    background-color: cyan;
+    font-family: fantasy;
+    font-size:  50px;
+}
+#object_heading
+{
+    font-family: cursive;
+    color: gold;
+    font-size: 100;
+        font-family: 'Nunito', sans-serif;
+        -moz-text-fill-color: gold;
+        -webkit-text-fill-color: gold;
+        -moz-text-stroke-color: black;
+        -webkit-text-stroke-color: black;
+        -moz-text-stroke-width: 1px;  
+        -webkit-text-stroke-width: 1px;
+        font-size: 50px;
+        margin-top: 20vh;
+}
+#camera,#result
+{
+    border-style: dashed;
+    border-color: black;
+    border-width: 2px;
+    width: 350px;
+    height: 300px;
+}
+title:hover{
+    background-color: white;
+}
